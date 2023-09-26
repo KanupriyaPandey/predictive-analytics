@@ -1,0 +1,10 @@
+# Python
+.ipynb_checkpoints
+__pycache__/
+.Python
+
+# pyenv
+.python-version
+
+# VSCode
+.vscode
